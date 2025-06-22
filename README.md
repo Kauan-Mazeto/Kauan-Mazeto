@@ -1,6 +1,6 @@
 ### Olá, eu sou o Kauan! 👋
 
-🎓 Estudante do 2º ano do Ensino Médio Técnico 
+🎓 Estudante do 2º ano do Ensino Médio Técnico                             
 💻 Apaixonado por tecnologia, programação e design  
 🌱 Atualmente aprendendo **Front-end e Back-end**  
 
