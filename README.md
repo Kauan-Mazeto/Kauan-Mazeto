@@ -1,7 +1,7 @@
 ## Olá, eu sou o Kauan! 👋
 
 ### Estudante do 2º ano do Ensino Médio Técnico
-### Faço prte do curso Aprender e Crescer 2024
+### Faço parte do curso Aprender e Crescer 2024
 ### Apaixonado por tecnologia, programação e design 
 
 ---
