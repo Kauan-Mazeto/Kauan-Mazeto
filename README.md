@@ -11,7 +11,7 @@
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.mazzs/)
 [![Gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=Gmail&logoColor=e71c18)](mailto:kauan.mazetorodrigues@gmail.com)
 
-
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
