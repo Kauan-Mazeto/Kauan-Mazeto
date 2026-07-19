@@ -62,29 +62,13 @@ Outros projetos
 
 </div>
 
----
-
-## 🐍 Contribuições
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Kauan-Mazeto/Kauan-Mazeto/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
-> Para a cobrinha funcionar, é necessário configurar uma GitHub Action (explico abaixo).
 
----
-
-## 🌎 Onde me encontrar
-
-<p align="center">
-
-<a href="https://github.com/Kauan-Mazeto">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
 
 ---
 
